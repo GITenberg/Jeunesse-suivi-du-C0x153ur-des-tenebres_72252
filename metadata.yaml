@@ -1,0 +1,67 @@
+_repo: Jeunesse-suivi-du-C0x153ur-des-tenebres_72252
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Jean-Aubry, G. (Georges)
+    aliases:
+    - Jean-Aubry, Gérard
+    - Jean-Aubry, Gerard
+    - Jean-Aubrey, G. (Georges)
+    - Jean-Aubrey, Georges
+    - Jean-Aubry, Georges
+    birthdate: 1882
+    deathdate: 1950
+    gutenberg_agent_id: '56615'
+    url: http://www.gutenberg.org/2009/agents/56615
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Georges_Jean-Aubry
+    - https://fr.wikipedia.org/wiki/G._Jean-Aubry
+  - agent_name: Ruyters, André
+    alias: Ruyters, Andre
+    birthdate: 1876
+    deathdate: 1952
+    gutenberg_agent_id: '56616'
+    url: http://www.gutenberg.org/2009/agents/56616
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Andr%C3%A9_Ruyters
+    - https://fr.wikipedia.org/wiki/Andr%C3%A9_Ruyters
+creator:
+  author:
+    agent_name: Conrad, Joseph
+    aliases:
+    - Korzeniowski, Joseph Conrad Theodore
+    - Korzeniowski, Józef Konrad Teodor
+    - Korzeniowski, Jozef Konrad Teodor
+    birthdate: 1857
+    deathdate: 1924
+    gutenberg_agent_id: '125'
+    url: http://www.gutenberg.org/2009/agents/125
+    wikipedia: https://en.wikipedia.org/wiki/Joseph_Conrad
+description: Translations of Youth and Heart of darkness.
+gutenberg_issued: '2023-11-28'
+identifiers:
+  gutenberg: '72252'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k80898c
+pgterms:marc905: 20231122114930conrad
+pgterms:marc906: '1925'
+pgterms:marc907: FR
+production_note: www.ebooksgratuits.com and Laurent Vogel (This file was produced
+  from images generously made available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bNouvelle revue française, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sea stories'
+- !lcsh 'Africa -- Fiction'
+- !lcsh 'Europeans -- Africa -- Fiction'
+- !lcsh 'Trading posts -- Fiction'
+- !lcsh 'Degeneration -- Fiction'
+- !lcsh 'Imperialism -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PR'
+- GITenberg
+title: Jeunesse, suivi du Cœur des ténèbres
+url: http://www.gutenberg.org/ebooks/72252
