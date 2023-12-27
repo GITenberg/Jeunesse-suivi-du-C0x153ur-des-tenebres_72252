@@ -25,6 +25,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Andr%C3%A9_Ruyters
     - https://fr.wikipedia.org/wiki/Andr%C3%A9_Ruyters
+covers:
+- cover_type: archival
+  image_path: 72252-h/images/cover.jpg
 creator:
   author:
     agent_name: Conrad, Joseph
@@ -38,6 +41,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/125
     wikipedia: https://en.wikipedia.org/wiki/Joseph_Conrad
 description: Translations of Youth and Heart of darkness.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72252#Jeunesse-suivi-du-C0x153ur-des-tenebres
 gutenberg_issued: '2023-11-28'
 identifiers:
   gutenberg: '72252'
